@@ -74,6 +74,7 @@ When opening your CSV file in Excel again, it will parse it as follows:
 
 However, if you open your CSV file on a different system that does not parse the `CR` character it will interpret your CSV file differently:
 
+  **Note** The part where it says "However, if you open your CSV file on a different system that does not parse the CR character it will interpret your CSV file differently" is unclear. What other system? It should be listed in the text what other systems could be used.* *Note**
 Your data in text format then look like this:
 
 >data1<br>
